@@ -35,7 +35,7 @@ try:
     semester=0 #semester
 
     #Topological Sort
-    while(len(vertex)!=0):
+    while(len(vertex)!=0 and semester<8):
         solution = [] #berisi solusi dari permasalahan
         for i in range(len(numberOfConnectedVertex)): #cari yang derajat 0 masukkan ke list solusi sementara
             if(numberOfConnectedVertex[i] == 0):
