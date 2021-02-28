@@ -1,0 +1,13 @@
+FisDas1.
+Kalkulus1.
+PengKom.
+Orkom, DasPro, Kalkulus2.
+OS, Orkom.
+DasPro, PengKom.
+AlstrukDat, DasPro.
+PBO, AlstrukDat.
+Kalkulus2, Kalkulus1.
+FisDas2, FisDas1.
+MatDis, Kalkulus2.
+AlGeo, Kalkulus2.
+ProbStat, MatDis, AlGeo.

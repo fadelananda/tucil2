@@ -1,0 +1,11 @@
+Biologi1.
+Kimia1.
+FisikaDasar1.
+MatematikaDasar1.
+Kimia2, Kimia1.
+Biologi2, Biologi1, Kimia2.
+Fisika2, FisikaDasar1.
+MatematikaDasar2, MatematikaDasar1.
+PRD, MatematikaDasar1, FisikaDasar1.
+RekayasaPerangkatLunak, Fisika2, MatematikaDasar2, PRD.
+RekayasaGenetika, Biologi2, PRD.
